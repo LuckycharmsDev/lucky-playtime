@@ -1,10 +1,10 @@
-# Lucky Playtime 🕒
+# Lucky Playtime
 
-A lightweight and fully configurable playtime tracking script for FiveM. Easily track how long your players are spending on the server with full database persistence.
+A lightweight and fully configurable playtime system for FiveM
 
 ## ✨ Features
 * **Multi-Framework**: Out-of-the-box support for **ESX** and **QBCore**.
-* **Highly Configurable**: Adjust everything from intervals to messages via the `config.lua`.
+* **Highly Configurable**: Adjust everything via the `config.lua`.
 * **Database Integrated**: Saves player data using `oxmysql` to ensure time is never lost.
 * **Optimized**: Built to run efficiently without impacting server performance.
 
